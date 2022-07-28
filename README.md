@@ -9,8 +9,7 @@ I want to run all my DB on Docker locally! This repo will contian the docker com
         host.docker.internal
 ![N|step1](https://github.com/e17769/ag_docker_DB/blob/main/assets/step1.png?raw=true)
         
-        
-
+ 
 
 ####
 https://dillinger.io/
